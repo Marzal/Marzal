@@ -4,11 +4,12 @@
 # Shields
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 ## Gitlab
-[![Website](https://img.shields.io/website?label=kdeexpress.gitlab.io&logo=kde&style=for-the-badge&url=https%3A%2F%2Fkdeexpress.gitlab.io%2F)](https://kdeexpress.gitlab.io/)
+[![Website](https://img.shields.io/website?label=kdeexpress.gitlab.io&logo=kde&style=for-the-badge&url=https%3A%2F%2Fkdeexpress.gitlab.io)](https://kdeexpress.gitlab.io/)
+[![Website](https://img.shields.io/website?label=accesibilidadtl.gitlab.io&logo=kde&style=for-the-badge&url=https%3A%2F%2Faccesibilidadtl.gitlab.io)](https://accesibilidadtl.gitlab.io/)
 [![Website](https://img.shields.io/website?label=residuocero.gitlab.io&logo=gitlab&style=for-the-badge&url=https%3A%2F%2Fresiduocerorm.gitlab.io)](https://residuocerorm.gitlab.io/)
 <!-- ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fresiduocerorm.gitlab.io%2F) -->
 ## Social
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/926901?style=social)](https://mastodon.social/@DavidMarzalC)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/926901?style=social)](https://masto.es/@DavidMarzalC)
 
 ## Github
 ![GitHub](https://img.shields.io/github/license/marzal/marzal)
